@@ -1,3 +1,3 @@
 # hello-world
 first repo
-I am learning to code in Python and R in order to train on Machine Learning.
+I am here to code in Python and R in order to use it for Machine Learning.
